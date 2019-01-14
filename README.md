@@ -76,7 +76,7 @@ please cut-and-paste the text from that email here._
 - Assumptions:
   - The lock is on the main door of a house. There are no other ways to break in the house, all windows are tightly closed and cannot be broke.
 - Assets:
-  House owners can unlock easily while others cannot break in.
+  - House owners can unlock easily while others cannot break in.
 - Threats:
   - One holds a photo of the owner before his head to pretend to be the owner and break in.
   - One uses a special paper to get the owner’s fingerprint from the fingerprint scanner. He can copy the fingerprint and break in.
